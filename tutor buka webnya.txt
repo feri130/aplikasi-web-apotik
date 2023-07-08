@@ -1,0 +1,5 @@
+cara membuka webnya
+
+1.hidupkan xampp
+2.ketik di browser http://localhost/aplikasisampel1/index.php
+3.selsai
